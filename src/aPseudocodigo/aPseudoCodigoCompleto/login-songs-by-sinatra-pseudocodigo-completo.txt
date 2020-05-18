@@ -1,0 +1,12 @@
+* Ingresar a url principal
+    url: http://songs-by-sinatra.herokuapp.com/
+* Hacer click en log in hyperlink
+* Agregar Username
+    user: frank
+* Agregar password
+    password: sinatra
+* Hacer click en log button
+* Verificar url de redireccionamiento
+    url: http://songs-by-sinatra.herokuapp.com/
+* Verificar mensaje de bienvenida
+    mensaje: You are now logged in as frank
