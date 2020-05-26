@@ -1,0 +1,40 @@
+navegarUrl() {}
+
+validarHomePage() {}
+
+login() {
+    dar click a login
+    esperar a que aparezcan los campos
+    ingresar username en el campo user
+    ingresar password en el campo password
+    click boton login
+}
+
+validarLogin() {
+    esperar a que aparezca la imagen y demas elementos
+    validar el mensaje de bienvenida que sea 'you are now logged in as frank'
+    validar que el link dice logout
+}
+
+crearCancion() {}
+
+validarCancion() {}
+
+navegarCancion() {}
+
+editarCancion() {}
+
+borrarCancion() {}
+
+likeCancion() {}
+
+test1() {
+    navegarUrl()
+    login()
+    crearCancion()
+    validarCancion()
+}
+
+test2() {
+
+}
